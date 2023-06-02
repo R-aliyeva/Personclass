@@ -1,0 +1,15 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.csproj.CoreCompileInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\bin\Debug\net6.0\Personclass.exe
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\bin\Debug\net6.0\Personclass.deps.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\bin\Debug\net6.0\Personclass.runtimeconfig.json
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\bin\Debug\net6.0\Personclass.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\bin\Debug\net6.0\Personclass.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\refint\Personclass.dll
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.pdb
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\Personclass.genruntimeconfig.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\Personclass\Personclass\obj\Debug\net6.0\ref\Personclass.dll
